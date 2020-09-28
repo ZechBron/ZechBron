@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Zech Bron](https://raw.githubusercontent.com/ZechBron/ZechBron/master/20200928_121425.gif)
+### ![Zech Bron](https://raw.githubusercontent.com/ZechBron/ZechBron/master/20200928_121425.gif)
 <!--
 **ZechBron/ZechBron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
