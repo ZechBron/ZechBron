@@ -1,4 +1,4 @@
-# ![Zech Bron](https://raw.githubusercontent.com/ZechBron/ZechBron/master/20200928_121425.gif)
+# ![Zech Bron](https://raw.githubusercontent.com/ZechBron/ZechBron/master/20200929_212037.gif)
 
 Hello There!
 I am Zech. Just a dumb Computer Science student who love to explore
