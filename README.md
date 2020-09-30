@@ -5,7 +5,7 @@ I am Zech. Just a dumb Computer Science student who love to explore
 the dark sides of programming languages.
 There's nothing special about me. 
 
-
+![Zech Bron's github stats](https://github-readme-stats.vercel.app/api?username=ZechBron)
 <!--
 
 **ZechBron/ZechBron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
