@@ -10,6 +10,8 @@ Sometimes I code not for fun. I code as a temporary escape from the reality. I c
 ### Quick Overview
 ![Total Stars](https://img.shields.io/github/stars/ZechBron?affiliations=OWNER&style=for-the-badge)   ![Followers](https://img.shields.io/github/followers/ZechBron?label=Followers&style=for-the-badge)
 
+![Followers](https://img.shields.io/github/followers/ZechBron?label=Followers&style=for-the-badge&logo=github)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZechBron&hide=TeX&layout=compact)
 
 ![Zech Bron's github stats](https://github-readme-stats.vercel.app/api?username=ZechBron&show_icons=true)
