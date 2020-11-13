@@ -14,7 +14,16 @@ Sometimes I code not for fun. I code as a temporary escape from the reality. I c
 
 ![Zech Bron's github stats](https://github-readme-stats.vercel.app/api?username=ZechBron&show_icons=true)
 
+---
 
+I am always open for criticism and judgements.
+So if you ever encounter an errors, bugs or any problems. All you have to do is to open an issue.
+If you have any comments or suggestions about my tools. All you have to do is to tell me.
+I value everyone's thoughts and opinions. 
+
+If you like any of my tools, you are free to fork it or give it a star.
+
+You might also want to follow me in github?
 <!--
 
 **ZechBron/ZechBron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
