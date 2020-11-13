@@ -8,9 +8,9 @@ There's nothing special about me.
 
 ![Zech Bron's github stats](https://github-readme-stats.vercel.app/api?username=ZechBron&show_icons=true)
 
-<!--
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZechBron&hide=TeX&layout=compact)
+<!--
 
 **ZechBron/ZechBron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
