@@ -9,6 +9,7 @@ Sometimes I code not for fun. I code as a temporary escape from the reality. I c
 
 ### Quick Overview
 ![Followers](https://img.shields.io/github/followers/ZechBron?label=Followers&style=for-the-badge&logo=github) ![Total Stars](https://img.shields.io/github/stars/ZechBron?affiliations=OWNER&style=for-the-badge&logo=github)
+
 __You might want to follow me in github?__
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZechBron&hide=TeX&layout=compact)
