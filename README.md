@@ -12,9 +12,7 @@ Sometimes I code not for fun. I code as a temporary escape from the reality. I c
 
 __You might want to follow me in github?__
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZechBron&hide=TeX&layout=compact)
-
-![Zech Bron's github stats](https://github-readme-stats.vercel.app/api?username=ZechBron&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZechBron&hide=TeX&layout=compact) ![Zech Bron's github stats](https://github-readme-stats.vercel.app/api?username=ZechBron&show_icons=true)
 
 ---
 
